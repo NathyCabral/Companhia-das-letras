@@ -15,7 +15,7 @@
     width: 563px;
     height: 50px;
     margin-left: 511px;
-    margin-top: -106px;
+    margin-top: -140px;
 
     font-family: 'Kumbh Sans';
     font-style: normal;
@@ -34,7 +34,7 @@
     width: 1488px;
     height: 355px;
     margin-left: 45px;
-    top: 684px;
+    margin-top: 34px;
 }
 
 .container-texto p {
@@ -59,7 +59,7 @@
     width: 1488px;
     height: 355px;
     left: 45px;
-    top: 1076px;
+    margin-top: 34px;
 }
 
 .icon-animado {
@@ -94,6 +94,7 @@
     width: 1488px;
     height: 250px;
     margin-left: 45px;
+    margin-top: 34px;
 
 }
 
@@ -117,6 +118,7 @@
     height: 355px;
     margin-left: 45px;
     margin-top: 150px;
+    margin-bottom: 50px;
 }
 
 .valores-ul,
