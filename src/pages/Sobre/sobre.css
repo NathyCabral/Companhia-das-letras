@@ -46,7 +46,7 @@
 
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 400;
-    font-size: 30px;
+    font-size:  1.8rem;
     line-height: 36px;
 
     color: #A19C9C;
@@ -82,7 +82,7 @@
     font-family: 'Kumbh Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size:  1.8rem;
     line-height: 37px;
 
     color: #A29C9C;
@@ -106,7 +106,7 @@
     font-family: 'Kumbh Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 1.8rem;
     line-height: 37px;
 
     color: #A29C9C;
@@ -167,6 +167,10 @@ h3 {
 
 @media only screen and (max-width: 900px) {
 
+
+    p{
+        font-size: 55px;
+    }
 
     .container-principal {
         display: flex;
